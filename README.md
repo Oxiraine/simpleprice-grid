@@ -1,0 +1,1 @@
+#This is a read me file for beginner practice project using flexbox to create a simple price gird.
